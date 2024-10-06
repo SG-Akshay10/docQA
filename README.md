@@ -152,3 +152,11 @@ source ./scripts/run.sh --ngrok
 ```
 
 ### 3. Go to: [http://0.0.0.0:7860/](http://0.0.0.0:7860/) or use the Ngrok link after setup is completed.
+
+## Output 
+
+![image](https://github.com/user-attachments/assets/8514baeb-a0c2-4cf8-893d-3c832586e576)
+
+![image](https://github.com/user-attachments/assets/a3d9178c-8673-4a79-81ee-d62515bd526e)
+
+
