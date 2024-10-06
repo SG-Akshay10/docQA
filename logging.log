@@ -1,0 +1,136 @@
+** Messages: **
+system: 
+  The following is a friendly conversation between a user and an AI assistant.
+  The assistant is talkative and provides lots of specific details from its context.
+  If the assistant does not know the answer to a question, it truthfully says it
+  does not know.
+
+  Here are the relevant documents for the context:
+
+  file_name: Resume_New.pdf
+
+Akshay S G SG-Akshay10 | ï Akshay S G | # akshay21110189@snuchennai.edu.in | H +91 9176090049 Education Shiv Nadar University Chennai Sep. 2021 May 2025 B.Tech Artificial Intelligence and Data Science CGPA: 8.5/10.0 Class 12th Central Board of Secondary Education (95%) June. 2021 Class 10th Central Board of Secondary Education (92%) June. 2019 Experience Sports Mechanics India Pvt Ltd Dec 2023 - May 2024 Data Science Intern Chennai, Tamil Nadu Engineered an Automated Real-Time Notification Engine using Python to analyze ball-by-ball cricket match data, leading to an 85% increase in efficiency by eliminating manual analysis and instantly identifying key events. Optimized parallel processing for real-time updates across concurrent matches, delivering instant notifications and enhancing system responsiveness. Orchestrated an AI-assisted commentary generation pipeline using the Mistral-7B model, resulting in a 60% reduction in manual workload and faster content delivery. Fine-tuned and quantized the model for local systems, integrating it with the notification engine. Matrice.ai June 2024 - Present Machine Learning Engineering Intern Remote Integrated advanced computer vision models (YOLO, ResNet, and Mask R-CNN) into the no-code platform for seamless dataset preprocessing , training, inference and deployment. Collaborated with cross-functional teams to enhance platform functionality and user experience. Developed test cases to quantify models, ensuring high accuracy and efficiency. Projects DocQA | Python, PyMuPDF, BERT, Word2Vec, Glove embedding, Bag Of Words Link to Demo Developed and assessed Bag of Words, GloVe, Word2Vec, and transformer-based models like BERT and Google T5 for Document based Question Answering. Innovated a chunking method with overlapping to overcome input length limitations in transformer models, enabling processing of longer documents while preserving context. Conducted comparative analysis revealing Google T5 with chunking as the superior approach for multi-sentence context questions. TweetGuardian | Python, Tensorflow, Pytorch, Scikit-learn, Hugging Face Link to Demo Implemented Twitter abuse detection system classifying tweets as Neutral, Abusive, or Hateful using Davidson et al. and Founta et al. datasets.
+
+file_name: Resume_New.pdf
+
+and Founta et al. datasets. Evaluated traditional machine learning algorithms like SVM and XGBoost, as well as deep learning models like BERT + MLP, BERT + Bi-LSTM, and variants such as ALBERT, RoBERTa, and ELECTRA-BERT. Achieved top performance with BERT+MLP model (F1 scores: 0.91 and 0.79). SharpEye | Python, Scikit-learn, Tensorflow, OpenCV,Pytorch Link to Demo Conducted an ablation study to compare simple image processing techniques with deep learning models for number plate recognition. Utilized image processing techniques such as bilateral filtering, canny edge detection, and contour detection to identify and segment characters on number plates. Deployed a CNN model trained on Alphabet and MNIST datasets to recognize characters from segmented images. Employed YOLO model for deep learning-based detection and segmentation of number plates, followed by EasyOCR for character recognition. Achieved 95% accuracy with deep learning techniques, outperforming 78% with traditional image processing methods. Technical Skills Languages : Python, C, JAVA, JavaScript, HTML/CSS, React.js Developer Tools : Tableau,SQL, VS Code, Figma. Technologies/Frameworks : GitHub,Scikit-learn, TensorFlow, PyTorch, Keras, OpenCV, spaCy and NLTK. Certificates Coursera : Machine Learning Specialization NPTEL : Data Mining, The Joy Of Computing with Python , Programming in Java and Blockchain and its Applications
+
+  Instruction: Based on the above documents, provide a detailed answer for the user question below.
+  Answer "don't know" if not present in the document.
+  
+user: Which university does he study?
+**************************************************
+** Response: **
+assistant:  He studies at Shiv Nadar University Chennai.
+**************************************************
+
+
+** Messages: **
+system: 
+  The following is a friendly conversation between a user and an AI assistant.
+  The assistant is talkative and provides lots of specific details from its context.
+  If the assistant does not know the answer to a question, it truthfully says it
+  does not know.
+
+  Here are the relevant documents for the context:
+
+  file_name: Resume_New.pdf
+
+Akshay S G SG-Akshay10 | ï Akshay S G | # akshay21110189@snuchennai.edu.in | H +91 9176090049 Education Shiv Nadar University Chennai Sep. 2021 May 2025 B.Tech Artificial Intelligence and Data Science CGPA: 8.5/10.0 Class 12th Central Board of Secondary Education (95%) June. 2021 Class 10th Central Board of Secondary Education (92%) June. 2019 Experience Sports Mechanics India Pvt Ltd Dec 2023 - May 2024 Data Science Intern Chennai, Tamil Nadu Engineered an Automated Real-Time Notification Engine using Python to analyze ball-by-ball cricket match data, leading to an 85% increase in efficiency by eliminating manual analysis and instantly identifying key events. Optimized parallel processing for real-time updates across concurrent matches, delivering instant notifications and enhancing system responsiveness. Orchestrated an AI-assisted commentary generation pipeline using the Mistral-7B model, resulting in a 60% reduction in manual workload and faster content delivery. Fine-tuned and quantized the model for local systems, integrating it with the notification engine. Matrice.ai June 2024 - Present Machine Learning Engineering Intern Remote Integrated advanced computer vision models (YOLO, ResNet, and Mask R-CNN) into the no-code platform for seamless dataset preprocessing , training, inference and deployment. Collaborated with cross-functional teams to enhance platform functionality and user experience. Developed test cases to quantify models, ensuring high accuracy and efficiency. Projects DocQA | Python, PyMuPDF, BERT, Word2Vec, Glove embedding, Bag Of Words Link to Demo Developed and assessed Bag of Words, GloVe, Word2Vec, and transformer-based models like BERT and Google T5 for Document based Question Answering. Innovated a chunking method with overlapping to overcome input length limitations in transformer models, enabling processing of longer documents while preserving context. Conducted comparative analysis revealing Google T5 with chunking as the superior approach for multi-sentence context questions. TweetGuardian | Python, Tensorflow, Pytorch, Scikit-learn, Hugging Face Link to Demo Implemented Twitter abuse detection system classifying tweets as Neutral, Abusive, or Hateful using Davidson et al. and Founta et al. datasets.
+
+file_name: Resume_New.pdf
+
+and Founta et al. datasets. Evaluated traditional machine learning algorithms like SVM and XGBoost, as well as deep learning models like BERT + MLP, BERT + Bi-LSTM, and variants such as ALBERT, RoBERTa, and ELECTRA-BERT. Achieved top performance with BERT+MLP model (F1 scores: 0.91 and 0.79). SharpEye | Python, Scikit-learn, Tensorflow, OpenCV,Pytorch Link to Demo Conducted an ablation study to compare simple image processing techniques with deep learning models for number plate recognition. Utilized image processing techniques such as bilateral filtering, canny edge detection, and contour detection to identify and segment characters on number plates. Deployed a CNN model trained on Alphabet and MNIST datasets to recognize characters from segmented images. Employed YOLO model for deep learning-based detection and segmentation of number plates, followed by EasyOCR for character recognition. Achieved 95% accuracy with deep learning techniques, outperforming 78% with traditional image processing methods. Technical Skills Languages : Python, C, JAVA, JavaScript, HTML/CSS, React.js Developer Tools : Tableau,SQL, VS Code, Figma. Technologies/Frameworks : GitHub,Scikit-learn, TensorFlow, PyTorch, Keras, OpenCV, spaCy and NLTK. Certificates Coursera : Machine Learning Specialization NPTEL : Data Mining, The Joy Of Computing with Python , Programming in Java and Blockchain and its Applications
+
+  Instruction: Based on the above documents, provide a detailed answer for the user question below.
+  Answer "don't know" if not present in the document.
+  
+user: What's his CGPA?
+**************************************************
+** Response: **
+assistant:  His current CGPA is 8.5/10.0
+**************************************************
+
+
+** Messages: **
+system: 
+  The following is a friendly conversation between a user and an AI assistant.
+  The assistant is talkative and provides lots of specific details from its context.
+  If the assistant does not know the answer to a question, it truthfully says it
+  does not know.
+
+  Here are the relevant documents for the context:
+
+  file_name: Resume_New.pdf
+
+Akshay S G SG-Akshay10 | ï Akshay S G | # akshay21110189@snuchennai.edu.in | H +91 9176090049 Education Shiv Nadar University Chennai Sep. 2021 May 2025 B.Tech Artificial Intelligence and Data Science CGPA: 8.5/10.0 Class 12th Central Board of Secondary Education (95%) June. 2021 Class 10th Central Board of Secondary Education (92%) June. 2019 Experience Sports Mechanics India Pvt Ltd Dec 2023 - May 2024 Data Science Intern Chennai, Tamil Nadu Engineered an Automated Real-Time Notification Engine using Python to analyze ball-by-ball cricket match data, leading to an 85% increase in efficiency by eliminating manual analysis and instantly identifying key events. Optimized parallel processing for real-time updates across concurrent matches, delivering instant notifications and enhancing system responsiveness. Orchestrated an AI-assisted commentary generation pipeline using the Mistral-7B model, resulting in a 60% reduction in manual workload and faster content delivery. Fine-tuned and quantized the model for local systems, integrating it with the notification engine. Matrice.ai June 2024 - Present Machine Learning Engineering Intern Remote Integrated advanced computer vision models (YOLO, ResNet, and Mask R-CNN) into the no-code platform for seamless dataset preprocessing , training, inference and deployment. Collaborated with cross-functional teams to enhance platform functionality and user experience. Developed test cases to quantify models, ensuring high accuracy and efficiency. Projects DocQA | Python, PyMuPDF, BERT, Word2Vec, Glove embedding, Bag Of Words Link to Demo Developed and assessed Bag of Words, GloVe, Word2Vec, and transformer-based models like BERT and Google T5 for Document based Question Answering. Innovated a chunking method with overlapping to overcome input length limitations in transformer models, enabling processing of longer documents while preserving context. Conducted comparative analysis revealing Google T5 with chunking as the superior approach for multi-sentence context questions. TweetGuardian | Python, Tensorflow, Pytorch, Scikit-learn, Hugging Face Link to Demo Implemented Twitter abuse detection system classifying tweets as Neutral, Abusive, or Hateful using Davidson et al. and Founta et al. datasets.
+
+file_name: Resume_New.pdf
+
+and Founta et al. datasets. Evaluated traditional machine learning algorithms like SVM and XGBoost, as well as deep learning models like BERT + MLP, BERT + Bi-LSTM, and variants such as ALBERT, RoBERTa, and ELECTRA-BERT. Achieved top performance with BERT+MLP model (F1 scores: 0.91 and 0.79). SharpEye | Python, Scikit-learn, Tensorflow, OpenCV,Pytorch Link to Demo Conducted an ablation study to compare simple image processing techniques with deep learning models for number plate recognition. Utilized image processing techniques such as bilateral filtering, canny edge detection, and contour detection to identify and segment characters on number plates. Deployed a CNN model trained on Alphabet and MNIST datasets to recognize characters from segmented images. Employed YOLO model for deep learning-based detection and segmentation of number plates, followed by EasyOCR for character recognition. Achieved 95% accuracy with deep learning techniques, outperforming 78% with traditional image processing methods. Technical Skills Languages : Python, C, JAVA, JavaScript, HTML/CSS, React.js Developer Tools : Tableau,SQL, VS Code, Figma. Technologies/Frameworks : GitHub,Scikit-learn, TensorFlow, PyTorch, Keras, OpenCV, spaCy and NLTK. Certificates Coursera : Machine Learning Specialization NPTEL : Data Mining, The Joy Of Computing with Python , Programming in Java and Blockchain and its Applications
+
+  Instruction: Based on the above documents, provide a detailed answer for the user question below.
+  Answer "don't know" if not present in the document.
+  
+user: What's his Github ID
+**************************************************
+** Response: **
+assistant:  Sorry. I cannot find the answer based on the context.
+**************************************************
+
+
+** Messages: **
+system: 
+  The following is a friendly conversation between a user and an AI assistant.
+  The assistant is talkative and provides lots of specific details from its context.
+  If the assistant does not know the answer to a question, it truthfully says it
+  does not know.
+
+  Here are the relevant documents for the context:
+
+  file_name: Resume_New.pdf
+
+Akshay S G SG-Akshay10 | ï Akshay S G | # akshay21110189@snuchennai.edu.in | H +91 9176090049 Education Shiv Nadar University Chennai Sep. 2021 May 2025 B.Tech Artificial Intelligence and Data Science CGPA: 8.5/10.0 Class 12th Central Board of Secondary Education (95%) June. 2021 Class 10th Central Board of Secondary Education (92%) June. 2019 Experience Sports Mechanics India Pvt Ltd Dec 2023 - May 2024 Data Science Intern Chennai, Tamil Nadu Engineered an Automated Real-Time Notification Engine using Python to analyze ball-by-ball cricket match data, leading to an 85% increase in efficiency by eliminating manual analysis and instantly identifying key events. Optimized parallel processing for real-time updates across concurrent matches, delivering instant notifications and enhancing system responsiveness. Orchestrated an AI-assisted commentary generation pipeline using the Mistral-7B model, resulting in a 60% reduction in manual workload and faster content delivery. Fine-tuned and quantized the model for local systems, integrating it with the notification engine. Matrice.ai June 2024 - Present Machine Learning Engineering Intern Remote Integrated advanced computer vision models (YOLO, ResNet, and Mask R-CNN) into the no-code platform for seamless dataset preprocessing , training, inference and deployment. Collaborated with cross-functional teams to enhance platform functionality and user experience. Developed test cases to quantify models, ensuring high accuracy and efficiency. Projects DocQA | Python, PyMuPDF, BERT, Word2Vec, Glove embedding, Bag Of Words Link to Demo Developed and assessed Bag of Words, GloVe, Word2Vec, and transformer-based models like BERT and Google T5 for Document based Question Answering. Innovated a chunking method with overlapping to overcome input length limitations in transformer models, enabling processing of longer documents while preserving context. Conducted comparative analysis revealing Google T5 with chunking as the superior approach for multi-sentence context questions. TweetGuardian | Python, Tensorflow, Pytorch, Scikit-learn, Hugging Face Link to Demo Implemented Twitter abuse detection system classifying tweets as Neutral, Abusive, or Hateful using Davidson et al. and Founta et al. datasets.
+
+file_name: Resume_New.pdf
+
+and Founta et al. datasets. Evaluated traditional machine learning algorithms like SVM and XGBoost, as well as deep learning models like BERT + MLP, BERT + Bi-LSTM, and variants such as ALBERT, RoBERTa, and ELECTRA-BERT. Achieved top performance with BERT+MLP model (F1 scores: 0.91 and 0.79). SharpEye | Python, Scikit-learn, Tensorflow, OpenCV,Pytorch Link to Demo Conducted an ablation study to compare simple image processing techniques with deep learning models for number plate recognition. Utilized image processing techniques such as bilateral filtering, canny edge detection, and contour detection to identify and segment characters on number plates. Deployed a CNN model trained on Alphabet and MNIST datasets to recognize characters from segmented images. Employed YOLO model for deep learning-based detection and segmentation of number plates, followed by EasyOCR for character recognition. Achieved 95% accuracy with deep learning techniques, outperforming 78% with traditional image processing methods. Technical Skills Languages : Python, C, JAVA, JavaScript, HTML/CSS, React.js Developer Tools : Tableau,SQL, VS Code, Figma. Technologies/Frameworks : GitHub,Scikit-learn, TensorFlow, PyTorch, Keras, OpenCV, spaCy and NLTK. Certificates Coursera : Machine Learning Specialization NPTEL : Data Mining, The Joy Of Computing with Python , Programming in Java and Blockchain and its Applications
+
+  Instruction: Based on the above documents, provide a detailed answer for the user question below.
+  Answer "don't know" if not present in the document.
+  
+user: What are his project titles?
+**************************************************
+** Response: **
+assistant:  His projects include DocQA, TweetGuardian, and SharpEye.
+**************************************************
+
+
+** Messages: **
+system: 
+  The following is a friendly conversation between a user and an AI assistant.
+  The assistant is talkative and provides lots of specific details from its context.
+  If the assistant does not know the answer to a question, it truthfully says it
+  does not know.
+
+  Here are the relevant documents for the context:
+
+  file_name: Resume_New.pdf
+
+Akshay S G SG-Akshay10 | ï Akshay S G | # akshay21110189@snuchennai.edu.in | H +91 9176090049 Education Shiv Nadar University Chennai Sep. 2021 May 2025 B.Tech Artificial Intelligence and Data Science CGPA: 8.5/10.0 Class 12th Central Board of Secondary Education (95%) June. 2021 Class 10th Central Board of Secondary Education (92%) June. 2019 Experience Sports Mechanics India Pvt Ltd Dec 2023 - May 2024 Data Science Intern Chennai, Tamil Nadu Engineered an Automated Real-Time Notification Engine using Python to analyze ball-by-ball cricket match data, leading to an 85% increase in efficiency by eliminating manual analysis and instantly identifying key events. Optimized parallel processing for real-time updates across concurrent matches, delivering instant notifications and enhancing system responsiveness. Orchestrated an AI-assisted commentary generation pipeline using the Mistral-7B model, resulting in a 60% reduction in manual workload and faster content delivery. Fine-tuned and quantized the model for local systems, integrating it with the notification engine. Matrice.ai June 2024 - Present Machine Learning Engineering Intern Remote Integrated advanced computer vision models (YOLO, ResNet, and Mask R-CNN) into the no-code platform for seamless dataset preprocessing , training, inference and deployment. Collaborated with cross-functional teams to enhance platform functionality and user experience. Developed test cases to quantify models, ensuring high accuracy and efficiency. Projects DocQA | Python, PyMuPDF, BERT, Word2Vec, Glove embedding, Bag Of Words Link to Demo Developed and assessed Bag of Words, GloVe, Word2Vec, and transformer-based models like BERT and Google T5 for Document based Question Answering. Innovated a chunking method with overlapping to overcome input length limitations in transformer models, enabling processing of longer documents while preserving context. Conducted comparative analysis revealing Google T5 with chunking as the superior approach for multi-sentence context questions. TweetGuardian | Python, Tensorflow, Pytorch, Scikit-learn, Hugging Face Link to Demo Implemented Twitter abuse detection system classifying tweets as Neutral, Abusive, or Hateful using Davidson et al. and Founta et al. datasets.
+
+file_name: Resume_New.pdf
+
+and Founta et al. datasets. Evaluated traditional machine learning algorithms like SVM and XGBoost, as well as deep learning models like BERT + MLP, BERT + Bi-LSTM, and variants such as ALBERT, RoBERTa, and ELECTRA-BERT. Achieved top performance with BERT+MLP model (F1 scores: 0.91 and 0.79). SharpEye | Python, Scikit-learn, Tensorflow, OpenCV,Pytorch Link to Demo Conducted an ablation study to compare simple image processing techniques with deep learning models for number plate recognition. Utilized image processing techniques such as bilateral filtering, canny edge detection, and contour detection to identify and segment characters on number plates. Deployed a CNN model trained on Alphabet and MNIST datasets to recognize characters from segmented images. Employed YOLO model for deep learning-based detection and segmentation of number plates, followed by EasyOCR for character recognition. Achieved 95% accuracy with deep learning techniques, outperforming 78% with traditional image processing methods. Technical Skills Languages : Python, C, JAVA, JavaScript, HTML/CSS, React.js Developer Tools : Tableau,SQL, VS Code, Figma. Technologies/Frameworks : GitHub,Scikit-learn, TensorFlow, PyTorch, Keras, OpenCV, spaCy and NLTK. Certificates Coursera : Machine Learning Specialization NPTEL : Data Mining, The Joy Of Computing with Python , Programming in Java and Blockchain and its Applications
+
+  Instruction: Based on the above documents, provide a detailed answer for the user question below.
+  Answer "don't know" if not present in the document.
+  
+user: What is DocQA
+**************************************************
+** Response: **
+assistant:  It is a project that uses Bag of Words, GloVe, Word2Vec, and transformer-based models like BERT and Google T5 for Document based Question Answering.
+**************************************************
+
+
+Keyboard interruption in main thread... closing server.
