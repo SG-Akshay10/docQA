@@ -1,6 +1,6 @@
 # docQA
 
-his repository hosts a fully integrated Retrieval-Augmented Generation (RAG) system designed to provide context-aware and evidence-based responses using large language models (LLMs). This system is designed for applications where retrieving relevant knowledge and generating a conversational response is crucial. The RAG pipeline efficiently combines document ingestion, semantic retrieval, and language model generation to deliver accurate, contextual, and informative answers to user queries.
+This repository hosts a fully integrated Retrieval-Augmented Generation (RAG) system designed to provide context-aware and evidence-based responses using large language models (LLMs). This system is designed for applications where retrieving relevant knowledge and generating a conversational response is crucial. The RAG pipeline efficiently combines document ingestion, semantic retrieval, and language model generation to deliver accurate, contextual, and informative answers to user queries.
 
 ## Features
 
